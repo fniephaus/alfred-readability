@@ -1,7 +1,7 @@
 Readability for Alfred
 ==============
 
-This workflow let's you manage your Readability list with Alfred.
+This workflow lets you manage your Readability list with Alfred.
 
 ![Readability for Alfred Screenshot](https://raw.github.com/fniephaus/alfred-readability/master/screenshot.gif)
 
