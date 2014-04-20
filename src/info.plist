@@ -12,7 +12,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>DF3A17F0-109C-498C-953A-1EA26ABBE2E2</string>
+				<string>E037422F-BB78-4C52-9EC9-D23FCF6CA31A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -68,6 +68,17 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>94B5A64D-BE8D-43B8-847A-F84CA4214C44</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B92083A2-051A-4F7D-BA47-59B109175A52</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DF3A17F0-109C-498C-953A-1EA26ABBE2E2</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -241,6 +252,31 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>hotkey</key>
+				<integer>15</integer>
+				<key>hotmod</key>
+				<integer>262144</integer>
+				<key>hotstring</key>
+				<string>R</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>2543D2DD-E0F7-479A-8CA8-525B97003DB7</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>lastpathcomponent</key>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
@@ -317,31 +353,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>action</key>
-				<integer>0</integer>
-				<key>argument</key>
-				<integer>0</integer>
-				<key>hotkey</key>
-				<integer>15</integer>
-				<key>hotmod</key>
-				<integer>262144</integer>
-				<key>hotstring</key>
-				<string>R</string>
-				<key>leftcursor</key>
-				<false/>
-				<key>modsmode</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.hotkey</string>
-			<key>uid</key>
-			<string>2543D2DD-E0F7-479A-8CA8-525B97003DB7</string>
-			<key>version</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
@@ -356,6 +367,31 @@
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>hotkey</key>
+				<integer>17</integer>
+				<key>hotmod</key>
+				<integer>262144</integer>
+				<key>hotstring</key>
+				<string>T</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>B92083A2-051A-4F7D-BA47-59B109175A52</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
@@ -364,7 +400,7 @@
 		<key>2543D2DD-E0F7-479A-8CA8-525B97003DB7</key>
 		<dict>
 			<key>ypos</key>
-			<real>670</real>
+			<real>250</real>
 		</dict>
 		<key>2A555E39-C9A2-44C6-86BB-62F2203985E9</key>
 		<dict>
@@ -395,6 +431,11 @@
 		<dict>
 			<key>ypos</key>
 			<real>250</real>
+		</dict>
+		<key>B92083A2-051A-4F7D-BA47-59B109175A52</key>
+		<dict>
+			<key>ypos</key>
+			<real>670</real>
 		</dict>
 		<key>DF3A17F0-109C-498C-953A-1EA26ABBE2E2</key>
 		<dict>
