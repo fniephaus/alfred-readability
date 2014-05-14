@@ -13,14 +13,14 @@ def main(wf):
         if not add_bookmark(get_browser_url(current_app)):
             print "%s link invalid." % current_app
             return 0
-        print "%s link added to Pocket." % current_app
+        print "%s link added to Readability." % current_app
         wf.clear_cache()
         return 0
     else:
         url = get_clipboard_bookmark()
         if url is not None:
             add_bookmark(url)
-            print "Clipboard link added to Pocket."
+            print "Clipboard link added to Readability."
             wf.clear_cache()
             return 0
 
