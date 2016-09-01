@@ -1,6 +1,8 @@
 Readability for Alfred
 ==============
 
+### This project is no longer maintained, because [Readability is shutting down its service](https://medium.com/@readability/1641cc18e02b#.z040vqm1d).
+
 This workflow lets you manage your Readability list with Alfred.
 
 ![Readability for Alfred Screenshot](https://raw.github.com/fniephaus/alfred-readability/master/screenshot.gif)
